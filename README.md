@@ -24,10 +24,11 @@ Atualmente estou desenvolvendo minhas habilidades em **Python, Java, Git e GitHu
 
 - 🐍 Python
 - ☕ Java
+- 🔧 Git
 - 🐙 GitHub
 - 💻 Desenvolvimento de Software
 - 🤖 Arduino e sistemas automatizados
-- Sistemas Eletroeletronicos
+
 ---
 
 ## 🛠️ Tecnologias
@@ -72,15 +73,6 @@ Projeto desenvolvido com **Arduino** para automatizar o controle do nível de um
 - 🔌 Arduino Uno
 - 🔧 Registrador 74HC595
 
-**Lógica do sistema:**
-
-| Nível | Indicador | Bomba |
-|---|---|---|
-| Abaixo de 15% | 🔴 LED + buzzer | Ligada |
-| 15% – 30% | 🟡 LED | Ligada |
-| 30% – 90% | 🟢 LED | Ligada |
-| Acima de 90% | 🟢 LED | Desligada |
-
 ---
 
 ## 📊 GitHub Stats
@@ -105,4 +97,42 @@ Projeto desenvolvido com **Arduino** para automatizar o controle do nível de um
 
 ---
 
-## 📈 Atividade no Git
+## 📈 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mikellycosta&theme=dracula" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mikellycosta&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Mikellycosta-black?style=for-the-badge&logo=github)](https://github.com/Mikellycosta)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mikelly%20Costa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mikelly-costa-7806b3328)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 "Transformando aprendizado em projetos e projetos em experiência."
+
+⭐ Obrigada por visitar meu perfil!
+
+</div>
