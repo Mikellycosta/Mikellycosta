@@ -24,7 +24,7 @@ Atualmente estou desenvolvendo minhas habilidades em **Python, Java, Git e GitHu
 
 - 🐍 Python
 - ☕ Java
-- 🔧 Git
+- 🔧 Sistemas Eletroeletronicos
 - 🐙 GitHub
 - 💻 Desenvolvimento de Software
 - 🤖 Arduino e sistemas automatizados
