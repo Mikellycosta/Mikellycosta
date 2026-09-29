@@ -12,11 +12,11 @@
 
 ## 💻 Sobre mim
 
-Sou estudante de **Engenharia da Computação** e estou construindo minha trajetória na área de tecnologia.
+Sou estudante de **Engenharia da Computação** e estou construindo minha trajetória na área de tecnologia e desenvolvimento de software.
 
-Tenho interesse principalmente em **programação, desenvolvimento de software e tecnologia**, buscando transformar o que aprendo na faculdade em projetos práticos.
+Tenho interesse em **programação, desenvolvimento de software e tecnologia**. Atualmente, estou estudando e desenvolvendo minhas habilidades em **Python, Java, Git e GitHub**, buscando sempre transformar o que aprendo em projetos práticos.
 
-Atualmente estou desenvolvendo minhas habilidades em **Python, Java, Git e GitHub**, sempre buscando aprender algo novo e evoluir como desenvolvedora.
+Estou no início da minha jornada como desenvolvedora e tenho como objetivo continuar aprendendo, criando projetos e evoluindo profissionalmente na área de tecnologia.
 
 ---
 
